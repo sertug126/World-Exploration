@@ -22,12 +22,14 @@ As a citizen of the Netherlands, I have a special focus on European integration.
 
 ## 🚀 Journey Map & Recent Highlights
 
-| Destination | Year/Status | Focus | Note |
+## 🚀 Journey Map & Recent Highlights
+
+| Destination | Year/Status | Note | Link |
 | :--- | :--- | :--- | :--- |
-| **Turkish Riviera** | 2025 | Coastal Geography | Home is where you pitch it. |
-| **Paris** | 2025 | Urban Architecture | The city of lights and logic. |
-| **Likya Way** | July 2026 | Endurance | Solo trekking and nature analysis. |
-| **Netherlands** | Summer 2026 | Work & Integration | Transitioning to life at UTwente. |
+| **Turkish Riviera** | 2025 | Home is where you pitch it. | [📍 Notes](./Journey/turkish-riviera.md) |
+| **Paris** | 2025 | The city of lights and logic. | [📍 Notes](./Journey/paris.md) |
+| **Likya Way** | July 2026 | Solo trekking and nature analysis. | [📍 Notes](./Journey/likya-way.md) |
+| **Netherlands** | Summer 2026 | Transitioning to life at UTwente. | [📍 Notes](./Journey/netherlands.md) |
 
 ## 💼 Work & Travel (Summer 2026)
 I believe in independence and resilience. From July to September 2026, I will be working in the Netherlands and financing my own journey. This experience is a crucial step in my transition to life in Enschede, directly inspiring my thoughts on social structures and the **"Coni Project."**
