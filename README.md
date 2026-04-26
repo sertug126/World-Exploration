@@ -17,9 +17,9 @@ As a citizen of the Netherlands, I have a special focus on European integration 
 
 | Destination | Year | Focus | Notes |
 | :--- | :--- | :--- | :--- |
-| **Netherlands (various)** | 2026 | Citizenship & Heritage | [View Logs](./Europe/Netherlands.md) |
-| **Turkey (Ankara & more)**| Ongoing | Cultural Roots | [View Logs](./Eurasia/Turkey.md) |
-| **Upcoming: Enschede** | July 2026 | Academic Transition | *Planning Phase* |
+| Turkish Riviera | 2025 | Home is where you pitch it. | [View Logs](./Europe/Netherlands.md) |
+| Paris | 2025 | Love Dream | [View Logs](./Eurasia/Turkey.md) |
+| **Upcoming:Likya** | July 2026 | Academic Transition | *Planning Phase* |
 
 ## 💼 Work & Travel
 I believe in independence and resilience. In the summer of 2026 (July - September), I will be working in the Netherlands, staying with family, and financing my own journey. This experience is a crucial step in my transition to life at UTwente.
